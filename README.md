@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/ejbrennan-public/pfizer-udacity/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ejbrennan-public/pfizer-udacity/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/ejbrennan-public/pfizer-udacity/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ejbrennan-public/pfizer-udacity/tree/master)
 
 ## Project Overview
 
